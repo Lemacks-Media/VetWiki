@@ -1,7 +1,8 @@
 # VetWiki
 Veteran Wiki Project & Repo
 
-## Site [public domain TBD}
+## Site 
+### [public domain TBD}
 
 ## Social
 ### YouTube https://www.youtube.com/@VeteranWiki
