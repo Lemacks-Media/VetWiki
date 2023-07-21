@@ -5,9 +5,14 @@ Veteran Wiki Project & Repo
 ### [public domain TBD}
 
 ## Social
-### YouTube https://www.youtube.com/@VeteranWiki
-### Patreon https://patreon.com/VeteranWiki
-### Twitter https://twitter.com/VeteranWiki
+#### YouTube https://www.youtube.com/@VeteranWiki
+#### Patreon https://patreon.com/VeteranWiki
+#### Twitter https://twitter.com/VeteranWiki
+#### Facebook https://facebook.com/TheVeteranWiki
+#### Instagram https://www.instagram.com/vetwiki/
+#### Reddit u/ https://www.reddit.com/r/VetWiki/
+#### Reddit r/ https://www.reddit.com/user/VetWiki
+#### LinkedIn https://linkedin.com/company/veteranwiki
 
 ## Repos
 ### Github https://github.com/Lemacks-Media/VetWiki
