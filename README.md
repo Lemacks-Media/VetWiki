@@ -14,6 +14,7 @@ Veteran Wiki Project & Repo
 - [Reddit r/](https://www.reddit.com/user/VetWiki)
 - [LinkedIn](https://linkedin.com/company/veteranwiki)
 - [TikTok](https://www.tiktok.com/@veteranwiki)
+- [Tumblr](https://veteranwiki.tumblr.com/)
 
 ## Repos
 - Github https://github.com/Lemacks-Media/VetWiki
@@ -27,3 +28,4 @@ Veteran Wiki Project & Repo
 
 ## Documentation
 - https://github.com/Lemacks-Media/VetWiki/wiki
+- https://docs.requarks.io/
