@@ -1,8 +1,10 @@
 # VetWiki
 Veteran Wiki Project & Repo
 
-## Site 
-- https://veteranwiki.org
+## Sites
+- [Website](https://veteranwiki.org)
+- [Wiki](https://wiki.veteranwiki.org)
+- [S3](https://s3.veteranwiki.org)
 
 ## Social
 - [YouTube](https://www.youtube.com/@VeteranWiki)
@@ -15,9 +17,11 @@ Veteran Wiki Project & Repo
 - [LinkedIn](https://linkedin.com/company/veteranwiki)
 - [TikTok](https://www.tiktok.com/@veteranwiki)
 - [Tumblr](https://veteranwiki.tumblr.com/)
+- [Pinterest](https://www.pinterest.com/VeteranWiki)
+- [Google Business](https://g.page/r/CZEnRbw1hnFHEBM/)
 
 ## Repos
-- Github https://github.com/Lemacks-Media/VetWiki
+- [Github](https://github.com/Lemacks-Media/VetWiki)
 - cPanel [Public facing link coming soon]
 
 ## Tracker/Roadmap
@@ -29,3 +33,8 @@ Veteran Wiki Project & Repo
 ## Documentation
 - https://github.com/Lemacks-Media/VetWiki/wiki
 - https://docs.requarks.io/
+
+## Transparency
+- [NC Filings](https://www.sosnc.gov/sv?viewname=_profile_filings&id=21206438)
+- [GuideStar](https://www.guidestar.org/profile/93-2623578)
+- [Dun & Bradstreet](https://www.dnb.com/business-directory/company-profiles.veteran_wiki.e1fb47cffa258d6fd8fe29e8918a7ac7.html)
